@@ -1,0 +1,12 @@
+*.pyc
+*.swp
+*.*~
+*.DS_Store
+
+build/*
+virtualenv/
+tmp/
+
+.project
+.pydevproject
+pip-log.txt
