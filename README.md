@@ -1,11 +1,10 @@
 dgscraper
 =========
 
-dgscrape is a Python program created to scrape text contents (title, main text content and possibly comments) from (hopefully) any web page without tears.
+dgscrape is a Python program created to scrape text contents (title, main text content and possibly comments) from forum web pages.
 
 Dependencies:
-    BeautifulSoup (included)
-    lxml 3.2.3 (earlier version should also work but it is not tested)
+    lxml >= 3.2.3
    
 Installation:
     python setup.py install
